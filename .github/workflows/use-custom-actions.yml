@@ -1,4 +1,4 @@
-name: 05-3. Use Custom Actions (JS & Doker)
+name: "A joke for you from custom actions workflow"
 
 on:
   pull_request:
